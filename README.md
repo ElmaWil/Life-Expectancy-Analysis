@@ -32,21 +32,21 @@ Other visuals included:
 
 ## Insights and Findings
 
-  \- Life expectancy trendsgenerally increased across most countries from 2000 to 2015, showing global improvement.
-  \- Higher adult mortality strongly reduces life expectancy. Countries with high adult mortality consistently show lower health outcomes.
-  \- More years of schooling are associated with better life expectancy. Education influences lifestyle, access to information, and long-term health.
-  \- Countries with higher GDP tend to have higher life expectancy, but wealth alone is not enough. Some developing countries with good health systems perform well.
-  \- High immunization rates (Polio, Diphtheria, Hepatitis B) support stronger health outcomes and contribute to longer life expectancy.
-  \- Developed countries consistently show higher life expectancy, but developing countries have made noticeable progress over the 15-year period.
+\- Life expectancy trendsgenerally increased across most countries from 2000 to 2015, showing global improvement.
+\- Higher adult mortality strongly reduces life expectancy. Countries with high adult mortality consistently show lower health outcomes.
+\- More years of schooling are associated with better life expectancy. Education influences lifestyle, access to information, and long-term health.
+\- Countries with higher GDP tend to have higher life expectancy, but wealth alone is not enough. Some developing countries with good health systems perform well.
+\- High immunization rates (Polio, Diphtheria, Hepatitis B) support stronger health outcomes and contribute to longer life expectancy.
+\- Developed countries consistently show higher life expectancy, but developing countries have made noticeable progress over the 15-year period.
 
 ## Recommendations
 Based on the insights:
 
- \- Invest more in education, as schooling strongly influences long-term health outcomes.
- \- Strengthen healthcare systems to reduce high adult and child mortality rates.
- \- Improve vaccination programs, especially in countries with low immunization rates.
- \- Increase awareness and treatment options for HIV/AIDS in regions that need it most.
- \- Support health sector spending to help developing countries catch up faster.
+\- Invest more in education, as schooling strongly influences long-term health outcomes.
+\- Strengthen healthcare systems to reduce high adult and child mortality rates.
+\- Improve vaccination programs, especially in countries with low immunization rates.
+\- Increase awareness and treatment options for HIV/AIDS in regions that need it most.
+\- Support health sector spending to help developing countries catch up faster.
 
 ## Conclusion
 This project made it easier to understand how several indicators interact to influence life expectancy around the world. By using SQL for exploration and Power BI for visualization, the analysis clearly highlights the importance of factors like education, mortality, immunization, and disease burden.
